@@ -1,3 +1,9 @@
+# How to fix the "remote: Repository not found." Error (buildapp.yml) ⚠️
+In order to simply fix this problem go to **Actions** and then go to **Update Submodules** and right as soon as you get there then trigger the **Run Workflow**
+
+Also please know that I can't trigger actions when my account is flagged so I can't update them on uYouEnhanced myself.
+
+# uYouEnhanced
 <p align="center">
   <a href="https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png">
     <img src="https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png" alt="UYOUPLUS_LOGO" width="200" height="200">
@@ -40,8 +46,6 @@
 [![Wiki](https://img.shields.io/badge/Wiki-blue?style=flat)](#wiki)<br>
 
 # Credits
-- Special thanks to all the developers who have worked on uYouPlus/uYouEnhanced! 
-
 <table id='credit'>
 <tr>
 
@@ -204,13 +208,13 @@
 <a href='https://github.com/balackburn'>balackburn</a>
 </td>
 
-<theos>
+<dodieboy>
 <td align="center">
-<a href='https://github.com/theos/theos'>
-<img src='https://user-images.githubusercontent.com/78001398/271813393-56a63730-a56d-41ba-b473-4d37761526c9.png' width='110px'>
+<a href='https://github.com/dodieboy'>
+<img src='https://github.com/arichornlover/YouTubeRebornPlus/assets/78001398/0d43912b-e561-4865-8312-5e241d34bf72' width='110px;'>
 </a>
 <br>
-<a href='https://theos.dev'>theos</a>
+<a href='https://github.com/dodieboy'>dodieboy</a>
 </td>
 </tr>
 
@@ -223,6 +227,15 @@
 </a>
 <br>
 <a href='https://github.com/bhackel'>bhackel</a>
+</td>
+
+<theos>
+<td align="center">
+<a href='https://github.com/theos/theos'>
+<img src='https://user-images.githubusercontent.com/78001398/271813393-56a63730-a56d-41ba-b473-4d37761526c9.png' width='110px'>
+</a>
+<br>
+<a href='https://theos.dev'>theos</a>
 </td>
 </tr>
 </table>
@@ -280,7 +293,9 @@
 - **Compatibility:** Requires iOS/iPadOS 15.0 or later.
 - For AltStore user: 
 
-  - My official AltStore repo: https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json
+  - My official AltStore repo (uYouEnhanced - iOS 15+): https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornloverALT/arichornloverALT.github.io/main/apps.json
+
+  - My alternative AltStore repo (uYouEnhanced - iOS 14+ - mainly for Trollstore users): https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornloverALT/arichornloverALT.github.io/main/apps-legacy.json - not sure if i can update this ipa. this IPA will be locked in YouTube Version **19.20.2**
 
   - [Open in AltStore (v19.21.2-3.0.4)](https://tinyurl.com/2wea84xd) - It will take a while to install because AltStore needs to download the IPA first.
 
@@ -289,7 +304,7 @@
 
 | **Tweaks/App** | **Developer** | **Version** | **Open source** |
 | - | - | :-: | :-:  |
-| **YouTube** | Google Inc | 19.21.2 | ✖︎ |
+| **YouTube** | Google Inc | 19.26.5 | ✖︎ |
 | [uYou](https://github.com/MiRO92/uYou-for-YouTube) | [MiRO92](https://twitter.com/miro92) | 3.0.4 | ✖︎ |
 | **Open in YouTube** | [CokePokes](https://github.com/CokePokes) | 1.2 | [✔︎](https://github.com/CokePokes/YoutubeExtensions) |
 | **iSponsorBlock** | [Galactic-Dev](https://github.com/Galactic-Dev) | 1.2.5 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
@@ -299,17 +314,18 @@
 | **DontEatMyContent** | [therealFoxster](https://github.com/therealFoxster) | 1.1.6 | [✔︎](https://github.com/therealFoxster/DontEatMyContent) |
 | **YTSpeed** | [Lyvendia](https://github.com/Lyvendia) | 1.0.1 | [✔︎](https://github.com/Lyvendia/YTSpeed) |
 | **Alderis Color Picker** | [HASHBANG Productions](https://github.com/hbang) | 1.2 | [✔︎](https://github.com/hbang/Alderis) |
-| **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.5.1 | [✔︎](https://github.com/PoomSmart/YTUHD) |
-| **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.8.9 | [✔︎](https://github.com/PoomSmart/YouPiP) |
+| **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.5.3 | [✔︎](https://github.com/PoomSmart/YTUHD) |
+| **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.8.12 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 | **IAmYouTube** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.0 | [✔︎](https://github.com/PoomSmart/IAmYouTube) |
 | **YTABConfig** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.2 | [✔︎](https://github.com/PoomSmart/YTABConfig) |
 | **YTReExplore** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.2 | [✔︎](https://github.com/PoomSmart/YTReExplore) |
 | **NoYTPremium** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.4 | [✔︎](https://github.com/PoomSmart/NoYTPremium) |
 | **YTNoPaidPromo** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.0 | [✔︎](https://github.com/PoomSmart/YTNoPaidPromo) |
 | **YouRememberCaption** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.0 | [✔︎](https://poomsmart.github.io/repo/depictions/youremembercaption.html) |
-| **Return YouTube Dislike** | [PoomSmart](https://twitter.com/poomsmart) | 1.11.11 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
-| **YouMute** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.1-3 | [✔︎](https://github.com/PoomSmart/YouMute) |
+| **Return YouTube Dislike** | [PoomSmart](https://twitter.com/poomsmart) | 1.11.14 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
+| **YouMute** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.2 | [✔︎](https://github.com/PoomSmart/YouMute) |
 | **YouQuality** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.1 | [✔︎](https://github.com/PoomSmart/YouQuality) |
+| **YouTube-X** | [PoomSmart](https://twitter.com/poomsmart) | 1.6.9 | [✔︎](https://github.com/PoomSmart/YouTube-X) |
 | **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 1.1.6 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
 | **YTHoldForSpeed** | [joshuaseltzer](https://github.com/joshuaseltzer) | 1.2.0 | [✔︎](https://github.com/joshuaseltzer/YTHoldForSpeed) |
 | **LowContrastMode** | [arichornlover](https://github.com/arichornlover) | 1.5.2 | [✔︎](https://github.com/arichornlover/YTLowContrastMode) |
@@ -325,7 +341,7 @@
 | MiRO92 | uYou 3.0 | v18.06.6 - v18.18.2 | iOS 14.0 - iOS 15.8.2 |
 | MiRO92 | uYou 3.0.1 | v18.19.1 - v18.41.5 | iOS 14.0 - iOS 17.5.1 |
 | MiRO92 | uYou 3.0.2 / 3.0.3 | v19.06.2 - v19.15.1 | iOS 14.0 - iOS 17.5.1 |
-| MiRO92 | uYou 3.0.4 | v19.06.2 - latest | iOS 14.0 - 17.5.1 |
+| MiRO92 | uYou 3.0.4 | v19.06.2 - v19.22.6 | iOS 14.0 - 17.5.1 |
 
 # Building
 
@@ -337,29 +353,45 @@ or [qnblackcat/Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Buil
 See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation).
 
 # Support the developers
-- [**MiRO92**](https://twitter.com/miro92): https://github.com/MiRO92/uYou-for-YouTube#support
-- [**PoomSmart**](https://github.com/PoomSmart): https://poomsmart.github.io
-- [**level3tjg**](https://twitter.com/level3tjg): https://ko-fi.com/level3tjg
-- [**BandarHL**](https://twitter.com/bandarhl): https://www.paypal.com/paypalme/BandarHL
-- [**julioverne**](https://twitter.com/ijulioverne): https://www.patreon.com/julioverne
-- [**Galactic-dev**](https://twitter.com/dev_galactic):   
-  - Paypal: https://www.paypal.com/paypalme/DBrett684 
-  - Venmo: https://venmo.com/u/DavidBrett
+<a href="https://buymeacoffee.com/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(buymeacoffee).png" width="200"></a>
+&nbsp;
+<a href="https://github.com/sponsors/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(Github).png" width="200"></a>
+
+<a href="https://ko-fi.com/dayanch966"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(ko-fi).png" width="200"></a>
+&nbsp;
+<a href="https://www.paypal.com/paypalme/poomsmart"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Poomsmart.png" width="200"></a>
+
+<a href="https://www.paypal.com/paypalme/DBrett684"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Paypal).png" width="200"></a>
+&nbsp;
+<a href="https://venmo.com/u/DavidBrett"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Venmo).png?raw=true" width="200"></a>
+
+
+<a href="https://github.com/MiRO92/uYou-for-YouTube#support"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Donations/MIRO92.png" width="200"></a>
+&nbsp;
+
+<a href="https://www.paypal.com/paypalme/BandarHL"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/BandarHL.png" width="200"></a>
+&nbsp;
+
+<a href="https://ko-fi.com/level3tjg"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/level3tjg.png?raw=true" width="200"></a>
+&nbsp;
+
+<a href="https://www.patreon.com/julioverne"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/julioverne.png?raw=true" width="200"></a>
 
 # Wiki
 
-See [arichornlover - Wiki](https://github.com/arichornlover/uYouenhanced/wiki/) or [qnblackcat - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/)
+See [arichornlover - Wiki](https://github.com/arichornlover/uYouEnhanced/wiki/) or [qnblackcat - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/)
 
 
 ## Lightweight Alternative - YTLitePlus
 
 <details>
     <summary>Read more</summary><br>
-- Change from uYouEnhanced to YTLitePlus (optional)
 
-Hello, this is here to showcase this tweak. I have been seeing the YTLitePlus tweak on Reddit for quite some time now and decided to join in. Before you download the tweak, you should take a look at the pros and cons below to learn more about the tweak.
+# Switch from uYouEnhanced to YTLitePlus (optional)
 
-https://github.com/Balackburn/YTLitePlus/releases
+Hello, this is here to showcase this tweak. I have been seeing the posts about the YTLitePlus tweak on Reddit for quite some time now and decided to add it here. Before you download or check out the tweak, you should take a look at the pros and cons below to learn more about YTLitePlus.
+
+https://github.com/YTLitePlus/YTLitePlus/releases
 
 **Pros**
 
@@ -367,15 +399,15 @@ https://github.com/Balackburn/YTLitePlus/releases
 
 - YTLitePlus provides more features in YTLite & YTLitePlus Sections in Settings that uYouPlus/uYouEnhanced may not have.
 
-- YTLitePlus includes a lightweight version of the App Version Spoofer, making it easier to use.
+- YTLitePlus includes a lightweight and simplified version of the App Version Spoofer, making it easier to use.
 
-- YTLitePlus does not cause your device to overheat, unlike uYouEnhanced.
+- YTLitePlus does not cause your device to overheat, unlike uYouPlus/uYouEnhanced.
+
+- YTLitePlus provides faster video & audio downloading than uYouPlus/uYouEnhanced.
 
 **Cons**
 
-- No custom video downloading feature in YTLitePlus.
-
 - Video quality on WiFi option is not available in YTLitePlus.
 
-- Reordering the pivot bar tabs such as ‘Home‘, ‘Shorts‘, ‘Explore‘, ‘Trending‘, Create‘, ‘Subscriptions‘ & ‘You‘ is not available in YTLitePlus.
+- Reordering the pivot bar tabs such as `Home`, `Shorts`, `Explore`, `Trending`, `Create`, `Subscriptions` & `You` is not available in YTLitePlus.
 </details>
